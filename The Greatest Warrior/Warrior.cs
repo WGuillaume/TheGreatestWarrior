@@ -11,6 +11,7 @@ namespace The_Greatest_Warrior
 
     public class Warrior
     {
+        //
         public int level { get; set; }
         public int experience { get; set; }
         public string rank { get; set; }
