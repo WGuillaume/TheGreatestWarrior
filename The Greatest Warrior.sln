@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Greatest Warrior", "The Greatest Warrior\The Greatest Warrior.csproj", "{B708134B-B1F0-4CB4-8A01-9FC4D1186748}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Greatest Warrior Test", "The Greatest Warrior Test\The Greatest Warrior Test.csproj", "{FBF5E033-7E85-4625-92BD-E836F4522F91}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B708134B-B1F0-4CB4-8A01-9FC4D1186748} = {B708134B-B1F0-4CB4-8A01-9FC4D1186748}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B708134B-B1F0-4CB4-8A01-9FC4D1186748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B708134B-B1F0-4CB4-8A01-9FC4D1186748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B708134B-B1F0-4CB4-8A01-9FC4D1186748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B708134B-B1F0-4CB4-8A01-9FC4D1186748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF5E033-7E85-4625-92BD-E836F4522F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF5E033-7E85-4625-92BD-E836F4522F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF5E033-7E85-4625-92BD-E836F4522F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF5E033-7E85-4625-92BD-E836F4522F91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAD5AFB6-0814-4C0E-8B7C-CEF1C534E713}
+	EndGlobalSection
+EndGlobal

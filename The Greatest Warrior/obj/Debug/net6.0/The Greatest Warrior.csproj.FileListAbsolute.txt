@@ -1,0 +1,15 @@
+C:\Users\Guillaume\source\repos\The Greatest Warrior\The Greatest Warrior\obj\Debug\net6.0\The Greatest Warrior.csproj.AssemblyReference.cache
+C:\Users\Guillaume\source\repos\The Greatest Warrior\The Greatest Warrior\obj\Debug\net6.0\The Greatest Warrior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillaume\source\repos\The Greatest Warrior\The Greatest Warrior\obj\Debug\net6.0\The Greatest Warrior.AssemblyInfoInputs.cache
+C:\Users\Guillaume\source\repos\The Greatest Warrior\The Greatest Warrior\obj\Debug\net6.0\The Greatest Warrior.AssemblyInfo.cs
+C:\Users\Guillaume\source\repos\The Greatest Warrior\The Greatest Warrior\obj\Debug\net6.0\The Greatest Warrior.csproj.CoreCompileInputs.cache
+C:\Users\Guillaume\source\repos\The Greatest Warrior\The Greatest Warrior\bin\Debug\net6.0\The Greatest Warrior.exe
+C:\Users\Guillaume\source\repos\The Greatest Warrior\The Greatest Warrior\bin\Debug\net6.0\The Greatest Warrior.deps.json
+C:\Users\Guillaume\source\repos\The Greatest Warrior\The Greatest Warrior\bin\Debug\net6.0\The Greatest Warrior.runtimeconfig.json
+C:\Users\Guillaume\source\repos\The Greatest Warrior\The Greatest Warrior\bin\Debug\net6.0\The Greatest Warrior.dll
+C:\Users\Guillaume\source\repos\The Greatest Warrior\The Greatest Warrior\bin\Debug\net6.0\The Greatest Warrior.pdb
+C:\Users\Guillaume\source\repos\The Greatest Warrior\The Greatest Warrior\obj\Debug\net6.0\The Greatest Warrior.dll
+C:\Users\Guillaume\source\repos\The Greatest Warrior\The Greatest Warrior\obj\Debug\net6.0\refint\The Greatest Warrior.dll
+C:\Users\Guillaume\source\repos\The Greatest Warrior\The Greatest Warrior\obj\Debug\net6.0\The Greatest Warrior.pdb
+C:\Users\Guillaume\source\repos\The Greatest Warrior\The Greatest Warrior\obj\Debug\net6.0\The Greatest Warrior.genruntimeconfig.cache
+C:\Users\Guillaume\source\repos\The Greatest Warrior\The Greatest Warrior\obj\Debug\net6.0\ref\The Greatest Warrior.dll
